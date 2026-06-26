@@ -1,0 +1,11 @@
+{
+  "venvPath": "/Users/prottoyachowdhury/anaconda3/envs",
+  "venv": "macro",
+  "pythonVersion": "3.10",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ]
+}

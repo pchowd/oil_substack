@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/Users/prottoyachowdhury/anaconda3/envs/macro/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ],
+  "python.analysis.diagnosticMode": "workspace",
+  "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
